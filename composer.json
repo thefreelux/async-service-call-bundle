@@ -1,7 +1,7 @@
 {
   "name": "thefreelux/async-service-call-bundle",
   "type": "symfony-bundle",
-  "version": "1.0.6",
+  "version": "1.0.6.1",
   "description": "Symfony bundle for asynchronous service methods calls",
   "keywords": [
     "Symfony",
