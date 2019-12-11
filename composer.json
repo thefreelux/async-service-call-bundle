@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Krlove\\AsyncServiceCallBundle\\": ""
+      "thefreelux\\AsyncServiceCallBundle\\": ""
     },
     "exclude-from-classmap": [
       "/Tests/"
