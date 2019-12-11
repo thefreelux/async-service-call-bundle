@@ -1,7 +1,7 @@
 {
-  "name": "krlove/async-service-call-bundle",
+  "name": "thefreelux/async-service-call-bundle",
   "type": "symfony-bundle",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Symfony bundle for asynchronous service methods calls",
   "keywords": [
     "Symfony",
@@ -12,14 +12,14 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "krlove",
-      "email": "mischenkoandrey@gmail.com"
+      "name": "thefreelux",
+      "email": "dev@promario.com"
     }
   ],
   "require": {
     "php": "^5.5 || ^7.0",
-    "symfony/framework-bundle": "^2.7 || ^3.0",
-    "symfony/console": "^2.7 || ^3.0",
+    "symfony/framework-bundle": "^5.0.*",
+    "symfony/console": "^5.0.*\"",
     "symfony/monolog-bundle": "^2.7 || ^3.0"
   },
   "autoload": {
